@@ -1,3 +1,8 @@
+---
+title: about me.
+permalink: _site/about.md
+---
+
 ## Welcome to GEEK' AI Pages
 ### ASR
 ### SLU
