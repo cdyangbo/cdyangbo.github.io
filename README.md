@@ -1,30 +1,5 @@
 ## Welcome to GEEK' AI Pages！
-## [HOME](https://cdyangbo.github.io) [BLOG](https://cdyangbo.github.io/blogs.html) [ASR](https://cdyangbo.github.io/asr.html) 
-
-<h2>{{ site.data.mylist.docs_list_title }}</h2>
-<ul>
-   {% for item in site.data.mylist.docs %}
-      <li><a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></li>
-   {% endfor %}
-</ul>
-
-
-### ASR
-### SLU
-### RTE
-### ATC
-
-
-### POST
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-
-
+## [HOME](https://cdyangbo.github.io)     [BLOG](https://cdyangbo.github.io/blogs.html)     [ASR](https://cdyangbo.github.io/asr.html)     [NLP](https://cdyangbo.github.io/blogs.html)     [LINKS](/)
 
 
 You can use the [editor on GitHub](https://github.com/cdyangbo/cdyangbo.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
