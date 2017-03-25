@@ -2,7 +2,7 @@ docs_list_title: Docs
 docs:
 
 - title: Introduction
-  url: _about/about.html
+  url: /about.html
 
 - title: Configuration
   url: configuration.html
