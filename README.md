@@ -1,4 +1,3 @@
-## Welcome to GEEK' AI Pages！
 ## [HOME](https://cdyangbo.github.io)     [BLOG](https://cdyangbo.github.io/blogs.html)     [ASR](https://cdyangbo.github.io/asr.html)     [NLP](https://cdyangbo.github.io/blogs.html)     [LINKS](/)
 
 
