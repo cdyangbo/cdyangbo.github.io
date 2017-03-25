@@ -1,4 +1,6 @@
-## Welcome to GEEK' AI Pages
+## Welcome to GEEK' AI Pages！
+## [HOME](https://cdyangbo.github.io) [BLOG](https://cdyangbo.github.io/blogs.html) [ASR](https://cdyangbo.github.io/asr.html) 
+
 <h2>{{ site.data.mylist.docs_list_title }}</h2>
 <ul>
    {% for item in site.data.mylist.docs %}
