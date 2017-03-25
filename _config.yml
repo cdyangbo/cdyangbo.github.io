@@ -1,5 +1,22 @@
 theme: jekyll-theme-modernist
+
+collections:
+- about
+    output: true
+    permalink: /:collection/:path/:title:output_ext
+- asr
+    output: true
+    permalink: /:collection/:path/:title:output_ext
+- slu
+    output: true
+    permalink: /:collection/:path/:title:output_ext
+- papers
+    output: true
+    permalink: /:collection/:path/:title:output_ext
+
+
 ---
+
 ---
 
 Here is my page.
