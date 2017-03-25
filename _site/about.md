@@ -1,5 +1,5 @@
 ---
 title: About me
-permalink: about.html
+permalink: /about.html
 ---
 ## life is short,i use python.
